@@ -1,2 +1,48 @@
 # sentiment-perturbation-analysis
-Investigating the effects of negation and contrastive phrasing on sentiment classification
+
+# Investigating the Effects of Negation and Contrastive Phrasing on Sentiment Classification
+
+## Overview
+
+This project investigates how negation and contrastive phrasing affect the predictions and confidence of a pretrained sentiment classification model.
+
+We use DistilBERT, fine-tuned on the Stanford Sentiment Treebank (SST-2), without additional training or fine-tuning.
+
+## Research Questions
+
+1. How does negation affect sentiment predictions?
+2. How does contrastive phrasing affect sentiment predictions?
+3. How do these linguistic changes influence model confidence?
+
+## Dataset
+
+- **SST-2:** [Stanford Sentiment Treebank](https://huggingface.co/datasets/stanfordnlp/sst2)
+
+## Model
+
+- **DistilBERT:** [distilbert-base-uncased-finetuned-sst-2-english](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
+
+## Project Structure
+
+- `notebooks/`: Experimental notebooks and analysis.
+- `results/`: Experimental results.
+- `figures/`: Generated visualizations.
+
+## Methodology
+
+The project is divided into two phases:
+
+- **Phase I – Model Behavior:** Investigating changes in predictions and confidence under different linguistic perturbations.
+- **Phase II – Model Interpretability:** Investigating influential words and internal representations.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+Open the notebook in `notebooks/` to reproduce the experiments.
+
+## Team
+
+Add team members here.
