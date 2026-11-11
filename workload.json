@@ -1,0 +1,21 @@
+{
+    "team_name": "Team Name",
+    "students": [
+        {
+            "first_name": "Mohanad",
+            "last_name": "Osman",
+            "workload": 0.33
+        },
+        {
+            "first_name": "Omar",
+            "last_name": "Elsherif",
+            "workload": 0.33
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.33
+        }
+        // ...add a record for each student
+    ]
+} 

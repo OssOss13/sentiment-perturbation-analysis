@@ -1,0 +1,27 @@
+{
+    "team_name": "Team Name",
+    "students": [
+        {
+            "student_id": "k12554400",
+            "first_name": "Mohanad",
+            "last_name": "Osman",
+            "email": "mohanados12@gmail.com",
+            "github_user": "OssOss13"
+        },
+        {
+            "student_id": "k12554399",
+            "first_name": "Omar",
+            "last_name": "Elsherif",
+            "email": "omar.alsharif160@gmail.com",
+            "github_user": ""
+        },
+        {
+            "student_id": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "@gmail.com",
+            "github_user": ""
+        }
+        // ...add a record for each student
+    ]
+}
