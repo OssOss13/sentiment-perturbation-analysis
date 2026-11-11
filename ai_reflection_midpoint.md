@@ -1,8 +1,8 @@
 # AI Reflection – Phase I
 
 ## AI-Aided Pair Members
-- [First Name] [Last Name] – [Student ID]
-- [First Name] [Last Name] – [Student ID]
+- [Mohanad] [Osman] – [12554400]
+- [Omar] [Elsherif] – [12554399]
 
 ## 1. Use of Generative AI
 

@@ -42,5 +42,7 @@ pip install -r requirements.txt
 Open the notebook in `notebooks/` to reproduce the experiments.
 
 ## Team
+Mohanad Osman
+Omar Elsherif
 
 Add team members here.
