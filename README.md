@@ -8,11 +8,9 @@ This project investigates how negation and contrastive phrasing affect the predi
 
 We use DistilBERT, fine-tuned on the Stanford Sentiment Treebank (SST-2), without additional training or fine-tuning.
 
-## Research Questions
+## Research Question
 
 1. How does negation affect sentiment predictions?
-2. How does contrastive phrasing affect sentiment predictions?
-3. How do these linguistic changes influence model confidence?
 
 ## Dataset
 
