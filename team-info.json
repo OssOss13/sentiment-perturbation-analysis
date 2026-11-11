@@ -13,15 +13,14 @@
             "first_name": "Omar",
             "last_name": "Elsherif",
             "email": "omar.alsharif160@gmail.com",
-            "github_user": ""
+            "github_user": "OmarElsherif-99"
         },
         {
-            "student_id": "",
-            "first_name": "",
-            "last_name": "",
-            "email": "@gmail.com",
-            "github_user": ""
+            "student_id": "K12521448",
+            "first_name": "Maral",
+            "last_name": "Mahshikian",
+            "email": "maralmahshikian1@gmail.com",
+            "github_user": "Marrr736"
         }
-        // ...add a record for each student
     ]
 }

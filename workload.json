@@ -12,10 +12,9 @@
             "workload": 0.33
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Maral",
+            "last_name": " Mahshikian",
             "workload": 0.33
         }
-        // ...add a record for each student
     ]
 } 
